@@ -2,8 +2,8 @@
 Install Java 8  
 Install Maven  
 Install Eclipse (or any other IDE)  
-Download the repository  
-Create a apache Tomcat v9.0 server in Eclipse (or IDE of choice).  
+Download the repository and open it with your IDE  
+Create a apache Tomcat v9.0 server in your IDE.  
 Add assessment as a resource to the server then start the server.  
 
 ## Dependencies
